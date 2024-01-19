@@ -51,3 +51,30 @@
 .text {
     font-family: "Open Sans", sans-serif;
 }
+
+
+/* HEADER */
+
+.header_title {
+    font-size: 2em;
+}
+
+.header_icon {
+    height: 60px;
+}
+
+.header_nav {
+    height: 40px;
+    width: 100%;
+}
+
+.nav_active {
+    background-color: #cc6119 !important;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.nav_text {
+    color: #232628;
+    font-weight: 700;
+}
