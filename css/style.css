@@ -1,0 +1,53 @@
+/* CHARTE GRAPHIQUE */
+
+/* COULEURS */
+
+.body_bg {
+    background-color: #ffffff;
+}
+
+.block_bg1 {
+    background-color: #fab637;
+}
+
+.block_bg2 {
+    background-color: #ff4848;
+}
+
+.nav_bg {
+    background-color: #eceff3;
+}
+
+.banner_bg {
+    background-color: #232628;
+}
+
+.price_bg {
+    background-color: #6c98e1;
+}
+
+.dark_text_color1 {
+    color: #ffffff;
+}
+
+.dark_text_color2 {
+    color: #cc6119;
+}
+
+.light_text_color1 {
+    color: #232628;
+}
+
+.light_text_color2 {
+    color: #cc6119;
+}
+
+/* TYPOGRAPHIES */
+
+.title {
+    font-family: "Montserrat", sans-serif;
+}
+
+.text {
+    font-family: "Open Sans", sans-serif;
+}
