@@ -78,3 +78,30 @@
     color: #232628;
     font-weight: 700;
 }
+
+
+/* MAIN */
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.list::before {
+    content: ' ✓ ';
+    color: #cc6119;
+    margin-right: 10px;
+}
+
+.inside_container {
+    width: 80%;
+}
+
+.cta {
+    background-image: url("../Club Auto - Images/images/vehicule4.jpg");
+    background-size: cover;
+}
+
+.cta_title {
+    font-weight: 700;
+}
